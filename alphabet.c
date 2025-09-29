@@ -9,7 +9,8 @@ printf("'%c'is a alphabet",ch);
 }
 else
 {
-printf("'%c'is a alphabet",ch);
+printf("'%c'is not a alphabet",ch);
 }
 return 0;
 }
+
